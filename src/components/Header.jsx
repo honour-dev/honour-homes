@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 
 const Header = () => {
   return (
-    <div className='bg-[url(header_img2.jpg)] items-center flex bg-cover w-full bg-center min-h-screen overflow-hidden mb-4'>
+    <div className='bg-[url(/header_img2.jpg)] items-center flex bg-cover w-full bg-center min-h-screen overflow-hidden mb-4'>
       <Navbar/>
       <div className='absolute text-center w-full flex flex-col capitalize items-center text-white font-bold'>
         <h2 className='md:text-5xl text-3xl items-center text-center max-w-2xl'>explore homes that fit your dreams</h2>
